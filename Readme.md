@@ -2,8 +2,7 @@
 
   Turn videos into gifs.
 
-  Project forked from 
-  ![](https://github.com/tj/node-gify)
+## Project forked from https://github.com/tj/node-gify
 
 ## Installation
 
